@@ -10,13 +10,7 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    },
-    {
-  "key":"TEST123",
-  "device_id":"1223c6f4e1f79b8d",
-  "expirydate":"2026-12-31",
-  "Allowoffline":false,
-  "revoked":false
- }
+    }
+    
 ]
 
