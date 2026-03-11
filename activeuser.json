@@ -30,14 +30,14 @@
         "Allowoffline": false
     },
         {
-        "device_id": "",
-        "key": "",
+        "device_id": "cfb553c61a6b0f6e",
+        "key": "key4",
         "expirydate": "31-3-2026",
         "Allowoffline": false
     },
     {
-        "device_id": "",
-        "key": "",
+        "device_id": "b4da0b6ace6cc31d",
+        "key": "key5",
         "expirydate": "31-3-2026",
         "Allowoffline"
     },
